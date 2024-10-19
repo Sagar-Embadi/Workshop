@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+}
+header{
+    background-color: indigo;
+    color: #ffff;
+    padding: 30px;
+    text-align: center;
+}
+main{
+    background-color: aquamarine;
+}
+h2{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: underline wavy lightslategray;
+    text-shadow: 3px 3px 2px black;
+    margin-bottom: 20px;
+}
+a{
+    color: #ffff;
+    text-decoration: none;
+    font-family: cursive;
+}
+img{
+    width: 350px;
+    height: 250px;
+    margin: 10px;
+}
+footer{
+    background-color: indigo;
+    color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
